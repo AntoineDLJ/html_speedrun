@@ -812,4 +812,22 @@ wat
 andere regels?
 
 </details>
+
+<details>
+<summary>27-11-2026 12:19:54 (UTC+01:00) | Run | AntoineDLJ | 1 gewijzigde bestanden (+1/−8)</summary>
+
+- **Uitgevoerd door:** AntoineDLJ
+- **Branch:** main
+- **Websitebestanden na deze actie:** 6
+- **Vorige opgeslagen versie:** [4eaaa07c87851e45034278a8d7e58553988a4162](https://github.com/AntoineDLJ/html_speedrun/commit/4eaaa07c87851e45034278a8d7e58553988a4162)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| gerard.html | Aangepast | 1 | 8 |
+
+**Verwachting voor Run**
+
+hij werkt alleen op de site zelf
+
+</details>
 <!-- arhc-weblab:log:end -->
