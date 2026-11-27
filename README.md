@@ -574,4 +574,22 @@ Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
 foto (stretched), misschien moet ik publishen want iets ofzo
 
 </details>
+
+<details>
+<summary>27-11-2026 11:40:41 (UTC+01:00) | Run | AntoineDLJ | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** AntoineDLJ
+- **Branch:** main
+- **Websitebestanden na deze actie:** 4
+- **Vorige opgeslagen versie:** [473a11f18178255b5db498bdb6b6bc704eb42898](https://github.com/AntoineDLJ/html_speedrun/commit/473a11f18178255b5db498bdb6b6bc704eb42898)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+omhoog
+
+</details>
 <!-- arhc-weblab:log:end -->
