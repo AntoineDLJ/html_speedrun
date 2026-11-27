@@ -553,4 +553,25 @@ even kijken wat ik had
 even testen
 
 </details>
+
+<details>
+<summary>27-11-2026 11:39:23 (UTC+01:00) | Run | AntoineDLJ | 2 gewijzigde bestanden (+1/−0; 1 binair)</summary>
+
+- **Uitgevoerd door:** AntoineDLJ
+- **Branch:** main
+- **Websitebestanden na deze actie:** 4
+- **Vorige opgeslagen versie:** [aadb0e67e4faa9ed582c22f76b9c7280ea2f61c9](https://github.com/AntoineDLJ/html_speedrun/commit/aadb0e67e4faa9ed582c22f76b9c7280ea2f61c9)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 0 |
+| Screenshot 2026-11-27 11.34.45.png | Nieuw (binair) | — | — |
+
+Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
+
+**Verwachting voor Run**
+
+foto (stretched), misschien moet ik publishen want iets ofzo
+
+</details>
 <!-- arhc-weblab:log:end -->
